@@ -84,7 +84,6 @@ This project explores the following CNN architectures:
 
 Each model has a dedicated folder under `code/`, with:
 - A Jupyter notebook (`.ipynb`) that contains code for training and testing.
-- A saved model file (`.pth`) after training.
 
 ## Results
 
@@ -100,7 +99,7 @@ The `sample dataset/` folder includes a sample fingerprint image to give users a
 ## Usage
 
 1. **Dataset Preparation**:
-   Ensure that the `dataset/` folder is populated with the required fingerprint images. If you need to download the dataset, follow the steps in the [Dataset](#dataset) section.
+   Ensure that the `dataset/` folder is populated with the required fingerprint images.
 
 2. **Running the Models**:
    Navigate to the respective model folder in `code/`, open the Jupyter notebook, and run it step-by-step. Each notebook is designed to:
